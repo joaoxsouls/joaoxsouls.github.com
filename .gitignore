@@ -1,0 +1,7 @@
+Makefile
+content/
+develop_server.sh
+output/
+pelicanconf.py
+publishconf.py
+*.pyc
