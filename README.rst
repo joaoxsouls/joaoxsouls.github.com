@@ -2,4 +2,4 @@
 Homepage
 ========
 github homepage
-based on -- _helloform: http://helloform.com/
+based on `helloform <http://helloform.com/>`_. with `zurb's <http://www.zurb.com/playground/social-webicons/>`_. social icons
